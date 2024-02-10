@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaBruni
-- 👀 I’m interested in tech, video games, C++, and weightlifting.
+- 👀 I’m interested in tech, video games, C++.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on NOT SURE JUST YET.
 - 📫 How to reach me : jasonbruni740@gmail.com
